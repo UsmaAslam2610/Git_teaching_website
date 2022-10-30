@@ -1,8 +1,8 @@
 #logo {
-    background: #000;
+    background:#48C9B0;
     padding: 0 17px;
     font-weight: bold;
-    color: #fff;
+    color: #000;
     font-size: x-large;
 }
 #logo_ {
@@ -42,6 +42,8 @@
 #HeaderProp{
   color:black;
   font-weight: bold;
-  background: #48C9B0
-  
+  background: #16A085
+}
+.nav-link:hover{
+    color:#48C9B0;
 }
